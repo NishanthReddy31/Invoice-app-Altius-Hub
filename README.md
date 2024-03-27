@@ -1,3 +1,6 @@
+# To clone the repository
+git clone https://github.com/<"username">/<"repo-name">.git
+
 # To install the dependencies:
 npm i
 
