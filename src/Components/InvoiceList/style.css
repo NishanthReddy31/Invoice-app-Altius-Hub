@@ -1,0 +1,46 @@
+.list-container{
+    margin-bottom: 20px;
+}
+.add-box{
+    margin:20px;
+}
+.heading{
+    background-color: aqua;
+    margin-bottom: 10px;
+}
+.tableHeading{
+    background-color: antiquewhite;
+    font-weight: 700px;
+}
+.invoiceList{
+    background-color: aquamarine;
+}
+.rb{
+    border-right:1px solid black;
+    font-weight: 700px;
+}
+.add-btn{
+    width:100px;
+    margin-bottom: 20px;
+}
+.add-btn{
+    text-decoration: none !important;
+    border: 1px solid grey;
+    width:100px !important;
+    background-color: bisque;
+    margin: 5px 0px;
+}
+.btn{
+    margin: 15px;
+}
+.invoice-table{
+    margin-bottom: 20px;
+}
+.pagination{
+    margin: 0px 10px;
+    display: flex;
+    align-self: center;
+}
+
+
+/* priyanshu.b@altiushub.com */

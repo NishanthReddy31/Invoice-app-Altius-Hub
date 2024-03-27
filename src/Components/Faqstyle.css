@@ -1,0 +1,41 @@
+.heading{
+  margin-top:12px;
+}
+.heading-text{
+  
+}
+.faq-box{
+  margin-top:20px;
+  
+}
+.question-box{
+  border: 2px black;
+  background-color: grey;
+  border-radius: 2px;
+  margin: 0px 0px;
+  width: 50%;
+  
+}
+.question{
+  padding-left:10px !important;
+}
+.answer-box{
+  border: 2px black;
+  background-color: grey;
+  border-radius: 2px;
+  margin: 0px 10px;
+  width: 50%;
+
+}
+.hide{
+  display:none !important;
+}
+.show{
+  display: flex !important;
+}
+.answer{
+  padding-left:10px !important;
+}
+.expandImg{
+  width: 20px;
+}
